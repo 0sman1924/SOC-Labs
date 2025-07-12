@@ -105,6 +105,7 @@ we search for a user account was created, so we need `EventID=4720`
 
 #### Q3 - On the **same host**, a registry key was also updated regarding the new backdoor user. What is the **full path of that registry key**?
 ---
+- Answer: `HKLM\SAM\SAM\Domains\Account\Users\Names\A1berto`
 - `index=main EventID=13 A1berto`
 
 <br>
