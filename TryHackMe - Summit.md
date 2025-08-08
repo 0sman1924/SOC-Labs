@@ -1,4 +1,4 @@
-# TryHackme | Summit Lab 
+# TryHackme | [Summit Lab](https://tryhackme.com/room/summit) 
 ---
 ### Challenge
 After participating in one too many incident response activities, 
