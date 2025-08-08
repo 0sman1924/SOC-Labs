@@ -1,5 +1,8 @@
 # TryHackme | [Summit Lab](https://tryhackme.com/room/summit) 
----
+
+
+<br>
+
 ### Challenge
 After participating in one too many incident response activities, 
 PicoSecure has decided to conduct a threat simulation and detection engineering engagement to bolster its malware detection capabilities. 
